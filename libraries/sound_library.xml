@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_01"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_01.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_02"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_02.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_03"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_03.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_04"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_04.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_05"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_05.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_06"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_06.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_07"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_07.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_08"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_08.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_console"]/sample/select[@start="sfx\ambient\platform\interior_amb_panel_09"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_09.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_screen"]/sample[@start="sfx\ambient\platform\interior_amb_panel_07"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_interior_amb_panel_07.wav</replace>
+  <replace sel='/soundlibrary/sound[@id="playeroffice_amb_center"]/sample[@start="sfx\ambient\platform\playeroffice_amb_center"]/@start'>extensions\kk4duy_playeroffice_audio_sanity\sfx\ambient\platform\kk4duy_playeroffice_amb_center.wav</replace>
+</diff>
